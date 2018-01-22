@@ -1,0 +1,4 @@
+pls can someone help me its just says Supports desktop GPUs with CUDA Compute capability 5.0 and above (check your GPUs Compute capability here). Tested and works with gaming GPUs, non-gaming and mobile GPUs might work correctly or with degraded performance or not at all.
+There are no plans to support GPUs that have CUDA Compute capability below 5.0.
+NVIDIA GPU supported but not detected
+In order for NiceHash Miner to detect your GPU NVIDIA drivers 372.54 or newer need to be installed.
